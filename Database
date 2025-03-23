@@ -1,0 +1,30 @@
+{
+  "medicines": {
+    "8901234567890": {
+      "name": "Paracetamol 500mg",
+      "manufacturer": "ABC Pharma",
+      "expiry_date": "2026-12-31",
+      "batch_number": "P500B1234",
+      "authentic": true,
+      "counterfeit_barcodes": []
+    },
+    "8909876543210": {
+      "name": "Amoxicillin 250mg",
+      "manufacturer": "XYZ Medics",
+      "expiry_date": "2025-08-15",
+      "batch_number": "A250B5678",
+      "authentic": true,
+      "counterfeit_barcodes": ["8909876543219", "8909876543220"]
+    },
+    "8905678901234": {
+      "name": "Cough Syrup",
+      "manufacturer": "HealthCorp",
+      "expiry_date": "2024-09-30",
+      "batch_number": "CSB9901",
+      "authentic": false,
+      "_isFake": true,
+      "_originalMedicine": "8901234567890"
+    }
+  },
+  "last_updated": "2025-03-23T12:00:00Z"
+}
