@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618052225227",
+    "project_id": "med-verify-8a046",
+    "storage_bucket": "med-verify-8a046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618052225227:android:08c3f09c4e77e0ca7a334e",
+        "android_client_info": {
+          "package_name": "com.medverify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHfbrYk25568tn8sBP-B9JM8uWnhnWDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
